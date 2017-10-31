@@ -1,4 +1,4 @@
-# py-keylogger
+# py keylogger
 A Simple Keylogger for Linux  written in Python using the pyxhook module which is an implementation of pyhook module (Windows OS). 
 
 <h3>Requires:</h3> 
